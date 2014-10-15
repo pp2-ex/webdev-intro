@@ -1,0 +1,25 @@
+.code-alongside-wrap {
+  overflow: auto;
+}
+.code-alongside-wrap div, .code-alongside-wrap code {
+  float: left;
+  width: 50%;
+  font-size: 1.75rem;
+}
+.code-alongside-wrap code {
+  text-align: left;
+  white-space: pre-wrap;
+}
+
+.reveal section img {
+    border: 0;
+}
+
+.reveal .no-shadow {
+    box-shadow: none;
+}
+
+.reveal .vert-align {
+    vertical-align: middle;
+    display: inline-block;
+}
